@@ -132,4 +132,4 @@ python ytdlp_gui.py
 After completing the installation for your OS, make sure your virtual environment is activated, then run the application with:
 
 ```bash
-python3 ytdlp_gui.py  # On Windows, just use 'python'
+python ytdlp_gui.py
