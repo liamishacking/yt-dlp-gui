@@ -61,6 +61,13 @@ These instructions assume you have [Homebrew](https://brew.sh), the standard pac
     ```bash
     pip install -r requirements.txt
     ```
+    ## Usage
+
+Once the installation is complete, run the application with:
+
+```bash
+python ytdlp_gui.py
+```
 
 ### Linux (Debian/Ubuntu) Instructions
 
