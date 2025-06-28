@@ -66,7 +66,7 @@ These instructions assume you have [Homebrew](https://brew.sh), the standard pac
 Once the installation is complete, run the application with:
 
 ```bash
-python ytdlp_gui.py
+python3 ytdlp_gui.py
 ```
 
 ### Linux (Debian/Ubuntu) Instructions
