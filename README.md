@@ -14,7 +14,7 @@ A clean, modern, and user-friendly Graphical User Interface for the `yt-dlp` com
 - **Video & Audio**: Download full videos or extract audio into MP3 or lossless WAV files.
 - **Quality Selection**: Choose your preferred video resolution or audio bitrate.
 - **Real-Time Progress**: A progress bar and detailed log keep you updated on the download status.
-- **Modern Look**: Built with `ttkbootstrap` for a great look and feel on any OS.
+- **Modern Look**: Built with `ttkbootstrap` for a good look and feel on any OS.
 - **Cross-Platform**: Works on Windows, macOS, and Linux.
 
 ## Prerequisites
@@ -22,7 +22,7 @@ A clean, modern, and user-friendly Graphical User Interface for the `yt-dlp` com
 Before you begin, ensure you have the following installed:
 
 1.  **Python 3.8+**
-2.  **FFmpeg**: This is **essential** for `yt-dlp` to download high-quality streams and convert audio.
+2.  **FFmpeg**: This is **needed** for `yt-dlp` to download high-quality streams and convert audio.
     -   **Windows**: Download a build from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/) and add the `bin` folder to your system's PATH.
     -   **macOS (Homebrew)**: `brew install ffmpeg`
     -   **Linux (Debian/Ubuntu)**: `sudo apt update && sudo apt install ffmpeg`
