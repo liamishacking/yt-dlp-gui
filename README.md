@@ -61,7 +61,7 @@ These instructions assume you have [Homebrew](https://brew.sh), the standard pac
     ```bash
     pip install -r requirements.txt
     ```
-    ## Usage
+## Usage
 
 Once the installation is complete, run the application with:
 
