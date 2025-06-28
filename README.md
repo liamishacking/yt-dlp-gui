@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A clean, modern, and user-friendly Graphical User Interface for the `yt-dlp` command-line tool. Download videos and audio from YouTube without ever touching the terminal.
+A clean, modern, and user-friendly Graphical User Interface for the `yt-dlp` command-line tool. Download videos and audio from YouTube.
 
 ![Screenshot of the yt-dlp GUI application](screenshot.png)  
 
